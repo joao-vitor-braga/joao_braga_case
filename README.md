@@ -28,8 +28,8 @@ O resultado final é um arquivo consolidado com as informações da movimentaç�
 
 2. **Reproduzir o repositório:**
    ```bash
-   git clone https://github.com/joao-vitor-braga/joao_braga_case.git
-   cd joao_braga_case
+   git clone https://github.com/joao-vitor-braga/financial-data-pipeline-spark-postgres-docker.git
+   cd financial-data-pipeline-spark-postgres-docker
    ```
 
 3. **Subir os containers:**
