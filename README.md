@@ -1,6 +1,6 @@
-#### Case – Engenharia de Dados PL (Auditoria Interna)
+#### Case – Engenharia de Dados
 
-Este projeto foi desenvolvido como parte de um **processo seletivo para Engenheiro de Dados PL**.  
+Este projeto foi desenvolvido como parte de um **processo seletivo para Engenheiro de Dados**.  
 O objetivo foi construir um **pipeline de dados** usando **Apache Spark** e **PostgreSQL**, com todo o ambiente automatizado via **Docker**, sem precisar configurar nada manualmente.
 
 ---
@@ -50,8 +50,6 @@ O arquivo final estará disponível em `data/output/movimento_flat/`.
 ---
 
 #### Dificuldades e aprendizados
-
-Como atuo como analista de dados e quase todas as minhas experiências envolvendo engenharia de dados são provenientes de cursos e materiais de estudo complementar, este projeto me fez sair totalmente da zona de conforto e lidar com os desafios reais de infraestrutura, então posso dizer com todas as letras que tive que ''suar a camisa'' para aprender a subir os containers do Docker, além de entrar mais afundo em Spark.
 
 1. Entender como os **serviços se comunicam via Docker Compose** exigiu diversos testes de tentativa e erro;  
 2. Ganhei uma visão prática de como funciona o ciclo completo de um pipeline de dados;
